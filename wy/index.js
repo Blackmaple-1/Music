@@ -588,7 +588,7 @@ module.exports = {
   author: "ikun0014",
   version: "0.1.3",
   appVersion: ">0.1.0-alpha.0",
-  srcUrl: "https://github.com/Blackmaple-1/Music/wy/index.js",
+  srcUrl: "https://ghfast.top/raw.githubusercontent.com/Blackmaple-1/Music/refs/heads/main/wy/index.js",
   cacheControl: "no-store",
   hints: {
     importMusicSheet: [
