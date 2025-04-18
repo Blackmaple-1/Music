@@ -709,7 +709,7 @@ module.exports = {
   },
   primaryKey: ["copyrightId"],
   cacheControl: "cache",
-  srcUrl: "https://github.com/Blackmaple-1/Music/mg/index.js",
+  srcUrl: "https://ghfast.top/raw.githubusercontent.com/Blackmaple-1/Music/refs/heads/main/mg/index.js",
   supportedSearchType: ["music", "album", "sheet", "artist", "lyric"],
   getMediaSource,
   async search(query, page, type) {
