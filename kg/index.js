@@ -492,7 +492,7 @@ module.exports = {
   version: "0.1.3",
   author: "ikun0014",
   appVersion: ">0.1.0-alpha.0",
-  srcUrl: "https://github.com/Blackmaple-1/Music/kg/index.js",
+  srcUrl: "https://ghfast.top/raw.githubusercontent.com/Blackmaple-1/Music/refs/heads/main/kg/index.js",
   cacheControl: "no-cache",
   description: "",
   primaryKey: ["id", "album_id", "album_audio_id"],
