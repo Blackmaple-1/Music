@@ -534,7 +534,7 @@ const qualityLevels = {
 async function getMediaSource(musicItem, quality) {
   const res = (
     await axios_1.default.get(
-      `http://api.ikunshare.com/url?source=kw&songId=${musicItem.id}&quality=${qualityLevels[quality]}`,
+      `https://api.ikunshare.com/url?source=kw&songId=${musicItem.id}&quality=${qualityLevels[quality]}`,
       {
         "headers": {
           "X-Request-Key": "public_source"
